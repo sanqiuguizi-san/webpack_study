@@ -1,0 +1,9 @@
+.app{
+    padding: 10px 20px;
+    border:  1px solid black;
+    border-radius: 5px;
+    color: blue;
+}.main {
+  background-color: lightcoral;
+  color: white;
+}
