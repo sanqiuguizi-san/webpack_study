@@ -1,6 +1,6 @@
 <template>
     <div class="container">
-        <h1 class="title">Hello world</h1>
+        <h1 class="title">Hello world 2020-2-26</h1>
     </div>
 </template>
 <script>
